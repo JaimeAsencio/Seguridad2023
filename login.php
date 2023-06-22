@@ -20,6 +20,4 @@ if (isset($_POST['login'])) {
     }
 }
 ?>
-+class Test {
-+}
-\ No newline at end of file
+\ 
